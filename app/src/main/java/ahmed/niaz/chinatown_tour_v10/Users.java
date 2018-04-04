@@ -16,16 +16,4 @@ public class Users {
         this.email = email;
     }
 
-/*
-    public String getUserID() {
-        return userID;
-    }
-
-    public String getFeedback() {
-        return feedback;
-    }
-
-    public String getEmail() { return email; }
-    */
-
 }
